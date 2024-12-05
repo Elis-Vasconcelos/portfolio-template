@@ -1,24 +1,30 @@
-# Atividade de Núcleo
+# Portfolio Responsivo - Dark Mode
 
-- **Orientadores:** Turma  [Fábio Santos Matos de Oliveira](https://gitlab.com/Fabio-Matos1303) | Turma  [Djair Maykon](https://gitlab.com/djairmaykon) | Turma  [Márcio R. Júnior m](https://gitlab.com/marciojunior2109) 
-- **Coorientadores gerais:** [Raissa Luna](https://gitlab.com/raissalunana) | [Lucas Júlio](https://gitlab.com/LucasJulio)
+## Descrição
 
-## Descrição da atividade
+Este projeto é um **portfolio responsivo** desenvolvido utilizando **React**. Ele segue o design especificado no Figma, oferecendo uma versão responsiva que se adapta a diferentes dispositivos. A principal funcionalidade é exibir informações de forma organizada e interativa, com ênfase em um **modo escuro**.
 
-### Tarefa
+## Funcionalidades
 
-Com base no design especificado crie esse portfolio responsivo utilizando React.
+- **Tela principal responsiva**: A página principal exibe o conteúdo de forma otimizada para diferentes tamanhos de tela, com design adaptável para dispositivos móveis, tablets e desktops.
+- **Menu hamburguer**: A versão mobile conta com um menu hamburguer que permite a navegação entre as seções do portfolio.
+- **Troca de imagens e nome**: O nome de exemplo foi substituído pelo seu próprio nome, e as imagens placeholder foram trocadas por imagens reais de sua escolha.
+- **Animações**: O menu hamburguer foi implementado com animações para transições suaves ao abrir e fechar.
 
-- https://www.figma.com/file/m51hxPh7T2yRX58k1xbdh3/Dark-Mode-%E2%80%93-N%C3%BAcleo-Web?node-id=0%3A1
+## Tecnologias Utilizadas
 
-## REQUISITOS
+- **React**: Biblioteca JavaScript utilizada para criar a interface interativa.
+- **CSS**: Estilização do layout, com ênfase em responsividade e animações.
+- **React Hooks**: Para gerenciar estados e efeitos no componente.
+  
+## Funcionalidades Implementadas
 
-### Requisitos Obrigatórios:
+1. **Tela Principal**: Exibe um layout responsivo com seu nome e informações pessoais.
+2. **Menu Hamburguer**: Implementado para dispositivos móveis, permitindo navegação pelas seções do portfolio.
+3. **Animações de Transição**: Animações adicionadas para o menu hamburguer, melhorando a experiência do usuário.
+4. **Modo Escuro**: A aplicação foi configurada para suportar um modo escuro, proporcionando uma experiência de navegação mais confortável.
 
-- Implementar a tela conforme figma
-- Responsividade
-- Utilizar o react
-- Criar menu hamburguer da versão mobile.
-- Substituir o nome de exemplo pelo seu nome
-- Substituir as imagens placeholder por imagens à sua escolha
-- Adicionar animações ao menu hamburguer
+## Personalização
+
+- **Substitua seu nome:** No arquivo src/App.js, altere o nome de exemplo pelo seu próprio nome.
+- **Troque as imagens:** Substitua as imagens placeholder pelos arquivos de sua escolha na pasta src/images.
