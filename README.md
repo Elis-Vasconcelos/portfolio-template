@@ -33,12 +33,12 @@ Este projeto é um **portfolio responsivo** desenvolvido utilizando **React**. E
 
 ### Light Mode
 
-[site-light](assets\Personal-site-light.png)
-[mobile-light](assets\Mobile-Light.png)
-[menu-light](assets\Mobile-Light-Menu-Hamburguer.png)
+![site-light](assets\Personal-site-light.png)
+![mobile-light](assets\Mobile-Light.png)
+![menu-light](assets\Mobile-Light-Menu-Hamburguer.png)
 
 ### Dark Mode
 
-[site-dark](assets\Personal-site-dark.png)
-[mobile-dark](assets\Mobile-Dark.png)
-[menu-dark](assets\Mobile-Dark-Menu-Hamburguer.png)
+![site-dark](assets\Personal-site-dark.png)
+![mobile-dark](assets\Mobile-Dark.png)
+![menu-dark](assets\Mobile-Dark-Menu-Hamburguer.png)
