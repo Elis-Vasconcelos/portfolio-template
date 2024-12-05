@@ -28,3 +28,17 @@ Este projeto é um **portfolio responsivo** desenvolvido utilizando **React**. E
 
 - **Substitua seu nome:** No arquivo src/App.js, altere o nome de exemplo pelo seu próprio nome.
 - **Troque as imagens:** Substitua as imagens placeholder pelos arquivos de sua escolha na pasta src/images.
+
+## Mostragem
+
+### Light Mode
+
+[site-light](assests\Personal-site-light.png)
+[mobile-light](assests\Mobile-Light.png)
+[menu-light](assests\Mobile-Light-Menu-Hamburguer.png)
+
+### Dark Mode
+
+[site-dark](assests\Personal-site-dark.png)
+[mobile-dark](assests\Mobile-Dark.png)
+[menu-dark](assests\Mobile-Dark-Menu-Hamburguer.png)
